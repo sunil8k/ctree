@@ -1,0 +1,4 @@
+SELECT `id`, `city`
+FROM (`citys`)
+WHERE `country_id` =  '102'
+AND  `city`  LIKE '%Delhi%'

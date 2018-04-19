@@ -1,0 +1,145 @@
+.at-quote{
+	.quate-left-header-wrap{
+		padding:20px;
+	}
+	.left-sidebar{
+		min-height:100vh;
+		padding:0;
+		background:$midOffBlackColor;
+		color:$whiteColor;
+	}
+	.right-content{
+		padding:0;
+		.progress{
+			border-radius:0;
+			height:40px;
+			.progress-bar{
+				font-size:16px;
+				font-weight: $semiBold;
+				font-family:$latoFont;
+			}
+		}
+	}
+	#question-container{
+		padding:0 30px;
+		.head{
+			h4{
+				font-size:18px;
+				font-weight: $semiBold;
+				color:$greenColor;
+			}
+		}
+		.heading{
+			h1{
+				font-weight: $extraBold;
+			}
+		}
+		h4{
+			color:$greenColor;
+		}
+		.options-container{
+			ul{
+				padding:0;
+				margin:0;
+				li{
+					list-style:none;
+					border:solid 1px $midGrayColor;
+					border-bottom:0;						
+					a{
+						padding:10px;
+						display:block;
+					}
+				}
+				li:last-child{
+					border-bottom:solid 1px $midGrayColor;
+				}
+			}
+		}
+		.action-buttons{
+			.btn-primary{
+				color:$greenColor;
+				color:$whiteColor;
+				padding:10px 15px;;
+			}
+		}
+		.btn-group.pill-buttons-large{
+			label.btn{
+				cursor:pointer;
+				border: 1px solid $midGrayColor;
+				display: inline-block;
+				padding: .5em 2em;
+				border-radius: 5px;
+				font-size: 1em;
+				text-decoration: none;
+				font-weight:$semiBold;
+				font-family:$latoFont;
+				margin-right:5px;
+			}
+		}
+	}
+	input,select{
+		border:solid 1px $midGrayColor;
+		height:50px!important;
+		border-radius:0;
+		padding:0 10px!important;
+		font-size:18px;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		margin:0;
+		&:focus{
+			box-shadow:none;
+		}
+	}
+	label{
+		font-weight:$semiBold;
+		font-size:16px;
+	}	
+	#left-sectioninfo{
+		background:$midBlueColor;
+		text-align:center;
+		font-size:18px;
+		text-transform:$textTransformuppercase;
+		font-weight:$medium;
+		padding:10px;
+	}
+	#left-basicinfo{		
+		ul{
+			padding:20px 20px 20px 35px;
+			border-bottom:solid 1px $midBlueColor;
+			margin:0;
+			font-size:15px;
+			li{
+				position:relative;
+				display:inline-block;
+				width:100%;
+				margin-bottom:5px;
+				padding-bottom:5px;
+				border-bottom:dotted 1px #444;
+				.editedCls{
+					float:right;
+					color:#444;
+				}
+				&:first-child,&:last-child{
+					border:none;					
+				}
+				b{
+					text-transform:$textTransformuppercase;
+					font-weight:$medium;
+					color:$grayColor;
+				}
+			}
+
+			.title-wrap{
+				text-transform:$textTransformuppercase;
+				color:$grayColor;
+				font-weight:$medium;
+				font-size:17px;
+				margin-bottom:10px;
+				border:none;
+			}
+		}
+	}
+
+}
+

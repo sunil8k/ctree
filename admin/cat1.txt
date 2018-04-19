@@ -1,0 +1,4 @@
+SELECT *
+FROM (`categorys`)
+WHERE `section_id` =  '2'
+AND `parent` =  0

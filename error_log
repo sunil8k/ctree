@@ -1,0 +1,54 @@
+[10-Dec-2014 13:01:11 Etc/GMT] PHP Fatal error:  Call to undefined method history_model::products() in /home/labelr6u/public_html/iMemet/application/views/history_view.php on line 44
+[10-Dec-2014 13:01:32 Etc/GMT] PHP Fatal error:  Call to undefined method history_model::products() in /home/labelr6u/public_html/iMemet/application/views/history_view.php on line 44
+[10-Dec-2014 13:01:48 Etc/GMT] PHP Fatal error:  Call to undefined method history_model::products() in /home/labelr6u/public_html/iMemet/application/views/history_view.php on line 44
+[10-Dec-2014 13:03:59 Etc/GMT] PHP Fatal error:  Call to undefined method history_model::products() in /home/labelr6u/public_html/iMemet/application/views/history_view.php on line 44
+[18-Dec-2014 06:53:04 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 06:56:23 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 06:56:31 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 07:06:29 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 07:06:31 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 07:07:10 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 07:07:12 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 07:54:31 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 08:23:37 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 10:56:29 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 10:56:55 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 10:57:06 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 12:28:40 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 12:46:17 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 12:54:41 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 12:54:44 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[18-Dec-2014 12:54:45 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 05:56:47 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:35:53 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:36:36 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:36:58 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:37:06 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:37:12 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:41:24 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:49:18 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:49:23 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:52:07 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:52:27 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:53:15 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:53:20 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 06:53:27 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:17:37 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:19:56 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:20:05 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:20:20 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:22:30 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:22:38 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:22:45 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[19-Dec-2014 07:45:32 Etc/GMT] PHP Fatal error:  Call to undefined function directory_map() in /home/labelr6u/public_html/iMemet/application/controllers/cart.php on line 17
+[19-Dec-2014 07:46:21 Etc/GMT] PHP Fatal error:  Call to undefined function directory_map() in /home/labelr6u/public_html/iMemet/application/controllers/cart.php on line 17
+[19-Dec-2014 07:46:31 Etc/GMT] PHP Fatal error:  Call to undefined function directory_map() in /home/labelr6u/public_html/iMemet/application/controllers/checkout.php on line 17
+[19-Dec-2014 07:49:16 Etc/GMT] PHP Fatal error:  Call to a member function all() on a non-object in /home/labelr6u/public_html/iMemet/application/views/layout/footer.php on line 45
+[13-Jan-2015 12:08:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/labelr6u/public_html/iMemet/application/models/account_model.php on line 71
+[11-Feb-2015 10:20:04 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[11-Feb-2015 10:20:45 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[11-Feb-2015 10:22:05 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[11-Feb-2015 10:22:09 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[11-Feb-2015 10:22:15 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[11-Feb-2015 10:22:36 Etc/GMT] PHP Fatal error:  Call to a member function subscribe() on a non-object in /home/labelr6u/public_html/iMemet/application/controllers/index.php on line 47
+[20-Feb-2015 06:28:54 Etc/GMT] PHP Parse error:  syntax error, unexpected 'product_order' (T_STRING) in /home/labelr6u/public_html/iMemet/application/models/history_model.php on line 25

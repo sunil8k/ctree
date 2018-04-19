@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="autocomplete-0.3.0.css" type="text/css" rel="stylesheet"  />
+<link href="autocomplete-0.3.0.min.css" type="text/css" rel="stylesheet"  />
+</head>
+
+<body>
+<div>
+<input name="search" id="autocomplete" type="text"  />
+</div>
+<div id="demo"></div><div id="message">Selection</div>
+<div id="message">Selection</div>
+<script type="text/javascript">
+var words = ['ati', 'boat', 'bear', 'atr', 'beay'];
+
+$('#demo').autocomplete({
+	  hints: words,
+	  onSubmit: function(text){
+	    $('#message').html('Selected: <b>' + text + '</b>');     
+	  }
+	});
+	
+	$('#demo').autocomplete({
+
+  // an array of words
+  hints: [],
+
+  // placeholder for the text input
+  placeholder: 'Search',
+
+  // width & height
+  width: 200,
+  height: 16,
+
+  // display a button next to the text input
+  showButton: true,
+
+  // button text
+  buttonText: 'Search',
+
+  // callbacks
+  onSubmit: function(text){},
+  onBlur: function(){}
+  
+});
+/*var countries = [
+   { value: 'Andorra', data: 'AD' },
+   { value: 'Zimbabwe1', data: 'ZZ1' },
+   { value: 'Zimbabwe2', data: 'ZZ2' },
+   { value: 'Zimbabwe3', data: 'ZZ3' },
+   { value: 'Zimbabwe4', data: 'ZZ4' }
+];
+
+$('#autocomplete').autocomplete({
+    lookup: countries,
+    onSelect: function (suggestion) {
+        alert('You selected: ' + suggestion.value + ', ' + suggestion.data);
+    }
+});*/
+</script>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="autocomplete-0.3.0.css" type="text/javascript"  ></script>
+<script src="autocomplete-0.3.0.min.js" type="text/javascript"  ></script>
+</body>
+</html>

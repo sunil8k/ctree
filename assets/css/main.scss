@@ -1,0 +1,14 @@
+/*Imported variables*/
+@import 'sass-lib/_variables.scss',
+'sass-lib/_index.scss',
+'sass-lib/_about.scss',
+'sass-lib/_header.scss',
+'sass-lib/_quote.scss',
+'sass-lib/_contact.scss',
+'sass-lib/_base.scss',
+'sass-lib/_footer.scss';
+
+* {
+	font-family: $ralewayFont;
+    outline: none;
+}

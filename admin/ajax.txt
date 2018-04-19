@@ -1,0 +1,7 @@
+SELECT `ld`.`id` lead_id, `ld`.`lead`, `ld`.`sku`, `ld`.`create_date`, `ld`.`status`, `usr`.`id` as customer_id, CONCAT_WS( ' ', `usr`.`first_name`, `usr`.`last_name` ) as customer_name, `usr`.`email`, `usr`.`mobile`, `cat`.`category`, `sec`.`section`, `lc`.*
+FROM (`leads` ld)
+JOIN `users` usr ON `ld`.`customer_id` = `usr`.`id`
+JOIN `categorys` cat ON `ld`.`category_id` = `cat`.`id`
+JOIN `sections` sec ON `ld`.`section_id` = `sec`.`id`
+JOIN `lead_contacts` lc ON `lc`.`lead_id` = `ld`.`id`
+WHERE `ld`.`id` =  '15'

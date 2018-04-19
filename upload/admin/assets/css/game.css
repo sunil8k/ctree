@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+div.formContainer {
+	width:100%; border:1px solid #F00;float:left;
+}
+div.celContainer {
+	width:100%; margin:0 20px 20px 20px; float:left;
+}
+div.celContainer div  {
+	width:100%;
+	margin:0 auto;
+	display:inline-block;
+}
+div.celContainer div div  {
+	width:7%; height:40px; border:1px solid #00F; float:left;	
+}
+div.cellRow {
+	float:left;
+	border-radius:5px;	
+	margin:0px 1px 1px 1px;
+	font-weight:bold;
+	font-size:22px;
+	color:#FFF;
+	text-align:center;
+	vertical-align:middle;
+}
+.selectedClass {
+	background-color:#630 !important;
+}
+.fixClass {
+	background:#3CF;
+}
+#loader {
+	width:100px; height:100px; position:absolute; top:10px; left:10px; display:none;
+}
+.selectedBtn {
+	background:#03F !important;	
+}
+/*@media (min-width: 720px) and (max-width: 768px) {
+	div.formContainer {
+		width:39%; border:1px solid #0F0;float:left;
+	}
+	div.celContainer {
+		width:60%; border:1px solid #0F0;float:left;
+	}
+	div.celContainer div div  {
+		width:6%; height:30px; border:1px solid #00F; float:left;	
+	}
+	div.cellRow {
+		border-radius:3px;	
+		margin:1px;
+		font-weight:bold;
+		font-size:18px;
+		
+	}
+}
+@media (max-width: 719px) {
+	div.formContainer {
+		width:100%; border:1px solid #00F;
+	}
+	div.celContainer {
+		width:100%; border:1px solid #00F;
+	}
+	div.celContainer div div  {
+		width:8%; height:18px; border:1px solid #00F; float:left;	
+	}
+	div.cellRow {
+		border-radius:2px;	
+		margin:1px;
+		font-weight:bold;
+		font-size:16px;
+		
+	}
+}*/

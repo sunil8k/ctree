@@ -1,0 +1,25 @@
+.overlay-content{
+	@extend %extend_translate_X50;
+	position:absolute;
+	margin:0 auto;
+	left:50%;
+	top:15%;
+	max-width: 1100px;
+	width:100%;
+}
+
+.xxl-font-win-size{
+	font-size:4.7vw;
+	color:$midWhiteColor;
+	font-weight:$black;
+	text-transform:$textTransformuppercase;
+	line-height: 80px;
+}
+.contact-info-wrap{
+	.contact-info-txt{
+		overflow:hidden;
+		line-height:20px;
+		padding-left:20px;
+		font-size:14px;
+	}
+}
